@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-agrawal-8a138a239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-agrawal-8a138a239" height="30" width="40" /></a>
 <a href="https://leetcode.com/h_agrawal6754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h_agrawal6754" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/agarwalharsh6583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GFG-code.svg" alt="h_agrawal6754" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/agarwalharsh6583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
