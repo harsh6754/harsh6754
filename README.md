@@ -20,12 +20,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh6754&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6754" /> </p>
 
-<div align="center">
-  <a href="">
-  <img  src="https://github.com/harsh6754/harsh6754/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh6754" alt="harsh6754" /></a> </p>
 
 <p align="left"> <a href=" https://twitter.com/HarshAg62381240" target="blank"><img src="https://img.shields.io/twitter/follow/HarshAg62381240?logo=twitter&style=for-the-badge" alt="https://twitter.comHarshAg62381240" /></a> </p>
