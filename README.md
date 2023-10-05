@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and upcoming MERN stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **ReactJs, Typescript, and much more.**
+- 🌱 I’m currently learning **ReactJs, Typescript, Dart and much more.**
 
 - 🤝 I’m looking for help with **WEB APPS**
 
