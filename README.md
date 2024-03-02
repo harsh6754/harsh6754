@@ -54,5 +54,5 @@
 
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/harsh6754/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
