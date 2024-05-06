@@ -54,5 +54,5 @@
 
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
 
-![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@harsh6754.svg)
+![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@harsh6754_1x1/2f2c45ac-80c6-4b97-902e-751f23320094.svg)
 
