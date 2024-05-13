@@ -12,7 +12,7 @@
   
 - 👐 Currently **Learning Flutter. 💙**
 
-- 📫 How to reach me **agarwalharsh6583@gmail.com**
+- 📫 How to reach me **agrawalharsh1028@gmail.com**
 
 - ⚡ Fun fact **I am constantly learning and suffering from imposter syndrome.**
 
