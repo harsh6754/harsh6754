@@ -56,3 +56,4 @@
 
 [![harsh6754's GitHub | Stats](https://gitroll.io/profile/uVFtPrRF0tcb47cgiovC33n3Nali1)
 
+<a href="https://gitroll.io/profile/uVFtPrRF0tcb47cgiovC33n3Nali1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVFtPrRF0tcb47cgiovC33n3Nali1" alt="GitRoll Profile Badge"/></a>
