@@ -54,5 +54,4 @@
 
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
 
-<a href="https://app.daily.dev/h_agrawal6754"><img src="https://api.daily.dev/devcards/v2/ehb02Ud01l5PzNQxjo3k1.png?r=xvl" width="356" alt="Harsh Agrawal's Dev Card"/></a>
 
