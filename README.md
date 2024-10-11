@@ -54,4 +54,5 @@
 
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
 
+[![harsh6754's GitHub | Stats](https://gitroll.io/profile/uVFtPrRF0tcb47cgiovC33n3Nali1)
 
