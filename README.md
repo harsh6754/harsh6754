@@ -1,73 +1,59 @@
-<h1>Harsh Agrawal</h1>
-    <p><strong>Software Developer | Computer Science Engineer | Aspiring Innovator</strong></p>
+# Harsh Agrawal
 
-    <p>
-        <a href="https://linkedin.com/in/harsh2810" target="_blank">LinkedIn</a> |
-        <a href="https://github.com/harsh6754" target="_blank">GitHub</a> |
-        <a href="https://leetcode.com/u/Harsh1028/" target="_blank">LeetCode</a>
-    </p>
+**Software Developer | Computer Science Engineer | Aspiring Innovator**
 
-    <hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Agrawal-blue)](https://linkedin.com/in/harsh2810)
+[![GitHub](https://img.shields.io/badge/GitHub-harsh6754-lightgrey)](https://github.com/harsh6754)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh1028-orange)](https://leetcode.com/u/Harsh1028/)
 
-    <h2>👋 About Me</h2>
-    <p>I am a Computer Science Engineering student at Parul University, Vadodara, expected to graduate in 2025. With a solid foundation in software development and a passion for technology, I have developed skills in various programming languages, frameworks, and tools. My focus is on creating efficient, scalable, and user-friendly software solutions.</p>
+---
 
-    <h2>🎓 Education</h2>
-    <ul>
-        <li><strong>BTech in Computer Science Engineering</strong><br>
-            Parul University, Vadodara (July 2021 – June 2025)<br>
-            CGPA: 7.54
-        </li>
-    </ul>
+## 👋 About Me
+I am a Computer Science Engineering student at Parul University, Vadodara, expected to graduate in 2025. With a solid foundation in software development and a passion for technology, I have developed skills in various programming languages, frameworks, and tools. My focus is on creating efficient, scalable, and user-friendly software solutions.
 
-    <h2>💻 Technical Skills</h2>
-    <ul>
-        <li><strong>Programming Languages:</strong> C, C++, Python, Java, JavaScript</li>
-        <li><strong>Web Development:</strong> HTML, Bootstrap, TailwindCSS, React, Node.js, Express.js, Next.js, jQuery, Angular</li>
-        <li><strong>Databases:</strong> MongoDB, MySQL, FirebaseDB, Redis</li>
-        <li><strong>Development Tools:</strong> Git, GitHub, AWS, Docker, IntelliJ IDEA, VS Code, Eclipse IDE, Postman</li>
-        <li><strong>Frameworks & Libraries:</strong> React.js, TailwindCSS, Next.js</li>
-    </ul>
+## 🎓 Education
+- **BTech in Computer Science Engineering**  
+  *Parul University, Vadodara (July 2021 – June 2025)*  
+  CGPA: 7.54
 
-    <h2>💼 Experience</h2>
-    <h3>Digifrills (Digifrills IT Solution) — Software Developer (Mar 2024 – May 2024)</h3>
-    <ul>
-        <li>Developed a secure intern dashboard application to enhance intern experience and management.</li>
-        <li>Implemented Firebase Authentication for secure login and MongoDB for data storage.</li>
-        <li>Enhanced user interface using Next.js and TailwindCSS.</li>
-        <li><strong>Key Technologies:</strong> Next.js, TailwindCSS, MongoDB, Postman</li>
-    </ul>
+## 💻 Technical Skills
+- **Programming Languages:** C, C++, Python, Java, JavaScript
+- **Web Development:** HTML, Bootstrap, TailwindCSS, React, Node.js, Express.js, Next.js, jQuery, Angular
+- **Databases:** MongoDB, MySQL, FirebaseDB, Redis
+- **Development Tools:** Git, GitHub, AWS, Docker, IntelliJ IDEA, VS Code, Eclipse IDE, Postman
+- **Frameworks & Libraries:** React.js, TailwindCSS, Next.js
 
-    <h2>🛠️ Projects</h2>
-    <h3><a href="https://github.com/harsh6754/my-book-store" target="_blank">My-Book-Store</a> (July 2022 – May 2023)</h3>
-    <ul>
-        <li>Developed a platform for users to buy and sell used books.</li>
-        <li>Integrated a recommendation engine for personalized suggestions.</li>
-        <li>Implemented secure transactions and a messaging feature for book requests.</li>
-        <li><strong>Key Technologies:</strong> React.js, Node.js, Express.js, MongoDB, FirebaseAuth, Docker</li>
-    </ul>
+## 💼 Experience
+### Digifrills (Digifrills IT Solution) — Software Developer (Mar 2024 – May 2024)
+- Developed a secure intern dashboard application to enhance intern experience and management.
+- Implemented Firebase Authentication for secure login and MongoDB for data storage.
+- Enhanced user interface using Next.js and TailwindCSS.
+- **Key Technologies:** Next.js, TailwindCSS, MongoDB, Postman
 
-    <h3>E-Waste Trade Hub (June 2023 – Present)</h3>
-    <ul>
-        <li>Part of the Smart India Hackathon, developed an E-waste Trade Hub platform.</li>
-        <li>Implemented a multi-tier authentication system for buyers and sellers.</li>
-        <li>Integrated multilingual support for seamless communication.</li>
-        <li><strong>Key Technologies:</strong> React, Node, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis</li>
-    </ul>
+## 🛠️ Projects
+### [My-Book-Store](https://github.com/harsh6754/my-book-store) (July 2022 – May 2023)
+- Developed a platform for users to buy and sell used books.
+- Integrated a recommendation engine for personalized suggestions.
+- Implemented secure transactions and a messaging feature for book requests.
+- **Key Technologies:** React.js, Node.js, Express.js, MongoDB, FirebaseAuth, Docker
 
-    <h2>🏆 Achievements</h2>
-    <ul>
-        <li><strong>LeetCode:</strong> Achieved a highest rating of 1833 (4 stars) with a global rank of 2063.</li>
-        <li><strong>Code Debugging:</strong> Finalist in a competition with over 10,000 participants.</li>
-        <li><strong>SSIP Certificate:</strong> Recognized by Parul University for exceptional project ideas for a startup.</li>
-    </ul>
+### E-Waste Trade Hub (June 2023 – Present)
+- Part of the Smart India Hackathon, developed an E-waste Trade Hub platform.
+- Implemented a multi-tier authentication system for buyers and sellers.
+- Integrated multilingual support for seamless communication.
+- **Key Technologies:** React, Node, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis
 
-    <h2>📫 Contact Me</h2>
-    <ul>
-        <li><strong>Email:</strong> <a href="mailto:agrawalharsh1028@gmail.com">agrawalharsh1028@gmail.com</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/harsh2810" target="_blank">linkedin.com/in/harsh2810</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/harsh6754" target="_blank">github.com/harsh6754</a></li>
-    </ul>
+## 🏆 Achievements
+- **LeetCode:** Achieved a highest rating of 1833 (4 stars) with a global rank of 2063.
+- **Code Debugging:** Finalist in a competition with over 10,000 participants.
+- **SSIP Certificate:** Recognized by Parul University for exceptional project ideas for a startup.
+
+## 📫 Contact Me
+- **Email:** [agrawalharsh1028@gmail.com](mailto:agrawalharsh1028@gmail.com)
+- **LinkedIn:** [linkedin.com/in/harsh2810](https://linkedin.com/in/harsh2810)
+- **GitHub:** [github.com/harsh6754](https://github.com/harsh6754)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh6754&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6754" /> </p>
 
