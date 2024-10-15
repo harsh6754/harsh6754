@@ -1,21 +1,45 @@
-<h1 align="center">Hi 👋, I'm Harsh Agrawal</h1>
-<h3 align="center">A passionate and upcoming MERN stack developer from India</h3>
+Harsh Agrawal
+Software Developer | Computer Science Engineer | Aspiring Innovator
 
 
-- 🌱 I’m currently learning **ReactJs, Typescript, Dart and much more.**
+👋 About Me
+I am a Computer Science Engineering student at Parul University, Vadodara, expected to graduate in 2025. With a solid foundation in software development and a passion for technology, I have developed skills in various programming languages, frameworks, and tools. My focus is on creating efficient, scalable, and user-friendly software solutions.
 
-- 🤝 I’m looking for help with **WEB APPS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harsh6754])
-
-- 💬 Ask me about **web development and Web3. 💜**
-  
-- 👐 Currently **Learning Flutter. 💙**
-
-- 📫 How to reach me **agrawalharsh1028@gmail.com**
-
-- ⚡ Fun fact **I am constantly learning and suffering from imposter syndrome.**
-
+🎓 Education
+BTech in Computer Science Engineering
+Parul University, Vadodara (July 2021 – June 2025)
+CGPA: 7.54
+💻 Technical Skills
+Programming Languages: C, C++, Python, Java, JavaScript
+Web Development: HTML, Bootstrap, TailwindCSS, React, Node.js, Express.js, Next.js, jQuery, Angular
+Databases: MongoDB, MySQL, FirebaseDB, Redis
+Development Tools: Git, GitHub, AWS, Docker, IntelliJ IDEA, VS Code, Eclipse IDE, Postman
+Frameworks & Libraries: React.js, TailwindCSS, Next.js
+💼 Experience
+Digifrills (Digifrills IT Solution) — Software Developer (Mar 2024 – May 2024)
+Developed a secure intern dashboard application to enhance intern experience and management.
+Implemented Firebase Authentication for secure login and MongoDB for data storage.
+Enhanced user interface using Next.js and TailwindCSS.
+Key Technologies: Next.js, TailwindCSS, MongoDB, Postman
+🛠️ Projects
+My-Book-Store (July 2022 – May 2023)
+Developed a platform for users to buy and sell used books.
+Integrated a recommendation engine for personalized suggestions.
+Implemented secure transactions and a messaging feature for book requests.
+Key Technologies: React.js, Node.js, Express.js, MongoDB, FirebaseAuth, Docker
+E-Waste Trade Hub (June 2023 – Present)
+Part of the Smart India Hackathon, developed an E-waste Trade Hub platform.
+Implemented a multi-tier authentication system for buyers and sellers.
+Integrated multilingual support for seamless communication.
+Key Technologies: React, Node, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis
+🏆 Achievements
+LeetCode: Achieved a highest rating of 1833 (4 stars) with a global rank of 2063.
+Code Debugging: Finalist in a competition with over 10,000 participants.
+SSIP Certificate: Recognized by Parul University for exceptional project ideas for a startup.
+📫 Contact Me
+Email: agrawalharsh1028@gmail.com
+LinkedIn: linkedin.com/in/harsh2810
+GitHub: github.com/harsh6754
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh6754&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6754" /> </p>
