@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-I am a Computer Science Engineering student at Parul University, Vadodara, expected to graduate in 2025. With a solid foundation in software development and a passion for technology, I have developed skills in various programming languages, frameworks, and tools. My focus is on creating efficient, scalable, and user-friendly software solutions.
+I am a Computer Science Engineering student at Parul University, Vadodara, expected to graduate in 2025. With a solid foundation in Software development and a passion for technology, I have developed skills in various programming languages, frameworks, and tools. My focus is on creating efficient, scalable, and user-friendly software solutions.
 
 ## 🎓 Education
 - **BTech in Computer Science Engineering**  
