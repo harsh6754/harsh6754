@@ -37,7 +37,7 @@ I am a Computer Science Engineering student at Parul University, Vadodara, expec
 - Implemented secure transactions and a messaging feature for book requests.
 - **Key Technologies:** React.js, Node.js, Express.js, MongoDB, FirebaseAuth, Docker
 
-### E-Waste Trade Hub (June 2023 – Present)
+### E-Waste Trading Hub (June 2023 – Present)
 - Part of the Smart India Hackathon, developed an E-waste Trade Hub platform.
 - Implemented a multi-tier authentication system for buyers and sellers.
 - Integrated multilingual support for seamless communication.
