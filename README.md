@@ -37,11 +37,54 @@ I am a Computer Science Engineering student at Parul University, Vadodara, expec
 - Implemented secure transactions and a messaging feature for book requests.
 - **Key Technologies:** React.js, Node.js, Express.js, MongoDB, FirebaseAuth, Docker
 
-### E-Waste Trading Hub (June 2023 – Present)
-- Part of the Smart India Hackathon, developed an E-waste Trade Hub platform.
-- Implemented a multi-tier authentication system for buyers and sellers.
-- Integrated multilingual support for seamless communication.
-- **Key Technologies:** React, Node, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis
+### **E-Waste Trading Hub**  
+**(June 2023 – Present)**  
+Part of the **Smart India Hackathon**, I developed the **E-Waste Trade Hub** platform designed to facilitate seamless transactions between buyers and sellers of electronic waste. The platform allows sellers to upload e-waste details and photos, and buyers can express interest by sending a price offer. If the seller accepts the offer, a notification is sent to the admin for further processing.
+
+Key Features Added:
+- **Multi-tier Authentication System**: Implemented a secure authentication system for buyers, sellers, and administrators using Firebase Authentication and JWT tokens.
+- **Multilingual Support**: Integrated multilingual support to allow users to interact with the platform in various languages, including English, Hindi, Gujarati, and others, improving accessibility for a diverse audience.
+- **Live E-Waste Tracking**: Enabled live tracking of e-waste collection, providing users with real-time updates about their orders.
+- **Seller Recommendations**: Introduced an algorithm that recommends the best prices for sellers based on ongoing market trends and buyer offers.
+
+**Newly Added Features**:
+
+1. **Raise Ticket for Issues**:  
+   Users can now raise a ticket if they encounter any issues with the website, such as problems with transaction processing, account issues, or technical glitches. The ticketing system allows users to:
+   - **Generate a ticket** detailing their issue (with priority levels: Low, Medium, High).
+   - **Attach screenshots or documents** for further clarification.
+   - **Track the status** of their ticket (Open, In-Progress, Resolved).
+   - Admins and support staff can view, respond to, and resolve tickets efficiently.
+
+   **Implementation**:  
+   - Users can fill in a simple form describing their issue, selecting the issue type (e.g., technical, transaction, account), and attaching relevant files.
+   - The backend uses Node.js and MongoDB to store and manage tickets.
+   - Admins receive real-time notifications when a new ticket is generated and can respond with resolutions or requests for more details.
+
+2. **E-Waste Chatbot for Query Resolution**:  
+   A **chatbot** feature has been integrated to assist users with e-waste-related queries, such as:
+   - How to recycle specific electronic items.
+   - Understanding the pricing trends in the e-waste market.
+   - How to sell e-waste or find the best buyers.
+   - Guidelines for proper e-waste disposal.
+
+   The **E-Waste Chatbot**:
+   - Uses **natural language processing (NLP)** to understand and respond to user queries in real-time.
+   - Offers suggestions, answers frequently asked questions, and provides step-by-step guides for common tasks.
+   - Can escalate to a live support agent if the query is complex or requires human intervention.
+
+   **Implementation**:  
+   - The chatbot is built using **Dialogflow** and **Node.js**, integrating with the front-end via a simple chat interface.
+   - It provides users with a smooth conversational experience, and its backend is capable of learning from interactions to improve its responses over time.
+
+**Key Technologies**:  
+React, Node.js, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis, Firebase Authentication, Dialogflow, NLP, Ticketing System
+
+**Future Plans**:
+- **Enhanced AI**: Plan to enhance the chatbot with more advanced AI capabilities to answer a wider variety of user questions.
+- **Mobile App Integration**: Extend the platform with a mobile app for easier access to e-waste trading, ticket management, and chatbot interaction.
+- **Gamification**: Introduce reward points for users who actively participate in e-waste trade or recycling, which can be redeemed for discounts or services.
+
 
 ## 🏆 Achievements
 - **LeetCode:** Achieved a highest rating of 1833 (4 stars) with a global rank of 2063.
