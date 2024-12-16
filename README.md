@@ -132,4 +132,8 @@ React, Node.js, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis, Fireb
 <br><br>
 [![harsh6754's GitHub | Languages Over Time](https://stats.quira.sh/harsh6754/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harsh6754)
 
+<br><br>
+[![harsh6754's GitHub | Topics Over Time](https://stats.quira.sh/harsh6754/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harsh6754)
+
+
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
