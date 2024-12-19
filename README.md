@@ -138,5 +138,5 @@ React, Node.js, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis, Fireb
 
 [![harsh6754's GitHub | Stats](https://stats.quine.sh/harsh6754/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsh6754)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh6754&bg_color=230113&color=fff5f5&line=c328b8&point=c52b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh6754&bg_color=230113&color=fff5f5&line=c328b8&point=c52b2b&area=true&hide_border=true)](https://github.com/harsh6754/)
 
