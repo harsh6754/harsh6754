@@ -140,3 +140,5 @@ React, Node.js, Express, MongoDB, TailwindCSS, Docker, AWS, jQuery, Redis, Fireb
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh6754&bg_color=230113&color=fff5f5&line=c328b8&point=c52b2b&area=true&hide_border=true)](https://github.com/harsh6754/)
 
+<a href="https://info.flagcounter.com/4S7U"><img src="https://s01.flagcounter.com/countxl/4S7U/bg_BAD6FF/txt_000000/border_CCCCCC/columns_8/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
