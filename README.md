@@ -30,6 +30,45 @@ I am a Computer Science Engineering student at Parul University, Vadodara, expec
 - Enhanced user interface using Next.js and TailwindCSS.
 - **Key Technologies:** Next.js, TailwindCSS, MongoDB, Postman
 
+- # Software Engineer Intern at Casepoint
+
+## Duration
+- **Start Date:** January 2, 2025
+- **Present**
+
+## Technologies & Tools Used
+- **Frontend:** Angular, jQuery
+- **Backend:** C#, .NET
+- **Database:** PostgreSQL, Redis
+- **Search & Analytics:** Kibana, Elasticsearch
+- **Messaging & Communication:** RabbitMQ
+- **Programming Languages:** Erlang
+
+## Responsibilities & Contributions
+As a Software Engineer Intern at Casepoint, I work on developing and maintaining features for various applications using a wide range of technologies. My primary responsibilities include:
+
+### Frontend Development
+- Developing dynamic, responsive user interfaces using **Angular** and **jQuery**.
+- Ensuring cross-browser compatibility and optimizing the frontend for performance and user experience.
+
+### Backend Development
+- Building scalable backend services using **C#** and **.NET**.
+- Implementing efficient and reliable APIs to support frontend functionality.
+
+### Database Management
+- Designing and maintaining **PostgreSQL** databases for storing and querying data.
+- Integrating and managing **Redis** for caching to improve application performance.
+
+### Search and Analytics
+- Using **Elasticsearch** for advanced search capabilities within applications.
+- Analyzing logs and application performance with **Kibana** to ensure smooth operations and identify issues proactively.
+
+### Messaging and Communication
+- Working with **RabbitMQ** for managing asynchronous messaging and improving system scalability.
+
+### Other Technologies
+- Writing and debugging **Erlang** code for certain backend components.
+
 ## 🛠️ Projects
 ### [My-Book-Store](https://github.com/harsh6754/my-book-store) (July 2022 – May 2023)
 - Developed a platform for users to buy and sell used books.
