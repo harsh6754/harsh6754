@@ -14,7 +14,7 @@ I am a Computer Science Engineering student at Parul University, Vadodara, expec
 ## 🎓 Education
 - **BTech in Computer Science Engineering**  
   *Parul University, Vadodara (July 2021 – June 2025)*  
-  CGPA: 7.54
+  CGPA: 7.77
 
 ## 💻 Technical Skills
 - **Programming Languages:** C, C++, Python, Java, JavaScript
